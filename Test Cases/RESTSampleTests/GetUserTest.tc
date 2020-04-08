@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetUserTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a903abe-6deb-4db3-af42-ed2c16329202</testCaseGuid>
+   <variable>
+      <defaultValue>'Eve'</defaultValue>
+      <description></description>
+      <id>bb39028b-b68b-405e-b42a-4a24af649374</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Holt'</defaultValue>
+      <description></description>
+      <id>04a5b8a0-2c29-4a23-bdcf-88e12ca0c49d</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'eve.holt@reqres.in'</defaultValue>
+      <description></description>
+      <id>83507f38-c7dd-48e3-bdee-d853a8cf4c23</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>576555d9-9209-4ede-88d4-bb765f46f764</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>

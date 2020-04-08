@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>4d14403e-c48b-4bae-8935-92ca15974b31</testSuiteGuid>
+   <testCaseLink>
+      <guid>fac6e816-4ebb-4262-acc8-3c0de575b0fe</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RESTSampleTests/GetUserTest</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0ccea287-64f8-4bad-ba30-86ee6c404c20</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/KMData1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>0ccea287-64f8-4bad-ba30-86ee6c404c20</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>first_name</value>
+         <variableId>bb39028b-b68b-405e-b42a-4a24af649374</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0ccea287-64f8-4bad-ba30-86ee6c404c20</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>last_name</value>
+         <variableId>04a5b8a0-2c29-4a23-bdcf-88e12ca0c49d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0ccea287-64f8-4bad-ba30-86ee6c404c20</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>83507f38-c7dd-48e3-bdee-d853a8cf4c23</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0ccea287-64f8-4bad-ba30-86ee6c404c20</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Id</value>
+         <variableId>576555d9-9209-4ede-88d4-bb765f46f764</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>29ac5b23-56c8-4ed0-8d0f-81365ee029e7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/RESTSampleTests/SampleTest</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>
